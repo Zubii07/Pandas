@@ -64,6 +64,17 @@ Here are the problems I solved to practice and strengthen my pandas skills:
 - Performed advanced data manipulations such as pivot tables, reshaping data, and more.
 
 
+## 🔧 Tools and Libraries Used
+
+This repository was created using the following tools and libraries:
+
+- **[Pandas](https://pandas.pydata.org/)**: The core library for data manipulation and analysis in Python.
+- **[Python](https://www.python.org/)**: The programming language used for solving the problems.
+- **[Jupyter Notebook](https://jupyter.org/)**: Used for running code interactively and documenting the learning process.
+
+---
+
+
 ## Future Revisions
 
 As I continue learning and working with pandas, I will revise these problems and continue adding more complex problems to the repository. This will help me strengthen my skills and expand my knowledge of pandas for more advanced data analysis tasks.
