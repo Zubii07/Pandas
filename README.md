@@ -18,9 +18,9 @@ My primary resources for learning were **Geeks for Geeks** and **W3Schools**, wh
   print(series)
 
 
-### **2. DataFrame**:
-  **Description**: A DataFrame is a two-dimensional, labeled data structure in pandas, which is similar to a table in a database or an Excel spreadsheet. It contains rows and columns, and each column can have a different data type (e.g., integers, strings, floats).
-
+### **1. DataFrame**:
+- **Description**: A DataFrame is a two-dimensional, labeled data structure in pandas, which is similar to a table in a database or an Excel spreadsheet. It contains rows and columns, and each column can have a different data type (e.g., integers, strings, floats).
+  
   Example:
   ```python
   import pandas as pd
