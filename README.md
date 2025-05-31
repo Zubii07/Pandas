@@ -5,7 +5,7 @@
 This repository showcases my learning journey with **pandas**, a powerful Python library for data manipulation and analysis. I have focused on understanding the basics of pandas and applied my knowledge to solve a variety of problems. 
 My primary resources for learning were **Geeks for Geeks** and **W3Schools**, which provided great tutorials and examples to deepen my understanding of pandas.
 
-## 🧩 Key Pandas Structures
+## 🧩 Key Structures of Pandas
 
 ### **1. Series**:
 - **Description**: A **Series** is a one-dimensional array-like object in pandas, which can hold data of any type (integers, strings, floating-point numbers, Python objects, etc.). It is similar to a list in Python but with additional functionality such as indexing.
@@ -16,6 +16,16 @@ My primary resources for learning were **Geeks for Geeks** and **W3Schools**, wh
   data = [10, 20, 30, 40]
   series = pd.Series(data)
   print(series)
+
+### **2. DataFrame**:
+  **Description**: A DataFrame is a two-dimensional, labeled data structure in pandas, which is similar to a table in a database or an Excel spreadsheet. It contains rows and columns, and each column can have a different data type (e.g., integers, strings, floats).
+
+  Example:
+  ```python
+  import pandas as pd
+  data = {'Name': ['Alice', 'Bob', 'Charlie'], 'Age': [25, 30, 35]}
+  df = pd.DataFrame(data)
+  print(df)
 
 
 ## Problems Solved
